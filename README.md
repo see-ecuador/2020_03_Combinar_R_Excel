@@ -1,6 +1,6 @@
 # Sociedad Ecuatoriana de Estadística  
 
-##Taller: Combinando el poder de *R* con la flexibilidad de *excel*  
+## Taller: Combinando el poder de *R* con la flexibilidad de *excel*  
 Viernes 20, 7pm hora de Ecuador  
 Expone: Nathalie Tejena  
 
